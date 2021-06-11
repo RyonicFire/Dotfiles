@@ -1,0 +1,6 @@
+[user]
+	name = Kevin Danne
+	email = ryonic.fire@gmail.com
+
+[core]
+    editor = nvim
