@@ -23,3 +23,7 @@ pacman -S ripgrep
 5. Install a [Nerd Font compatible font](https://github.com/ryanoasis/nerd-fonts#font-installation) or [patch your own](https://github.com/ryanoasis/nerd-fonts#font-patcher). Then set your terminal font (or `guifont` if you are using GUI version of Vim).
 
 6. Execute `:PackerSync` 
+
+7. After the packages have been installed, restart Neovim again
+
+8. Type `:LspInstall` and then install install the language server protocols you want. E.g. `:LspInstall typescript`.
